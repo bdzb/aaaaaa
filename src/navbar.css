@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+.top {
+  position: absolute;
+  top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  gap: 50px;
+  font-weight: bolder;
+
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  height: 70px;
+}
+
+label {
+  margin-right: 10px;
+  font-size: x-large;
+}
+
+button {
+  font-size: medium;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  font-size: x-large;
+  font-weight: 900;
+}
+
+.co {
+  background-color: green;
+  background-position: 0px 50%;
+  height: 120px;
+}
+
+.navi {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  gap: 160px;
+  color: white;
+  background-position: center;
+  height: 60px;
+  align-items: center;
+  font-size: large;
+  font-weight: bold;
+  justify-content: center;
+  font-family: sans-serif;
+  background-color: green;
+}
+
+.overtop {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 120px;
+}

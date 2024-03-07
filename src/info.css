@@ -1,0 +1,33 @@
+#display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 0px;
+  overflow-y: scroll;
+  height: 150vh;
+  overflow-x: hidden;
+}
+
+.f1 {
+  height: 100px;
+  width: 100px;
+}
+
+.coimg {
+
+  display: flex;
+}
+
+.f2 {
+  height: 100px;
+  width: 100px;
+}
+
+#cropimg {
+  height: 300px;
+}
+
+p {
+  width: 40vw;
+  margin: 10px;
+}

@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.back-img {
+  background-image: url('https://static.theprint.in/wp-content/uploads/2022/07/RicePTI.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.overfull {
+  background-color: rgba(46, 58, 46, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.nav {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  gap: 160px;
+  background-image: url('474057.jpg');
+  background-position: 0px 50%;
+  height: 60px;
+  align-items: center;
+  font-size: large;
+  font-weight: bold;
+  justify-content: center;
+  font-family: sans-serif;
+
+}
+
+Navbar {
+  z-index: 1;
+  position: absolute;
+}
+
+h1 {
+  margin: 20px;
+  font-size: 50px;
+}
+
+.home:hover,
+.crop:hover,
+.weather:hover {
+  cursor: pointer;
+  font-weight: bolder;
+  z-index: 1;
+}
+
+.cont {
+  position: absolute;
+  top: 23%;
+  left: 25%;
+  text-align: center;
+  color: #ffffff;
+  font-weight: 900;
+  background-color: rgba(129, 170, 116, 0);
+  word-spacing: 1px;
+
+  height: 50vh;
+  width: 50vw;
+}
+
+ul {
+  list-style: none;
+
+}
+
+li {
+  margin-bottom: 20px;
+  margin: 20px;
+}
+
+.organic {
+  font-size: x-large;
+
+}
+
+.foot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: absolute;
+  bottom: 0px;
+  background-color: white;
+  height: 30px;
+  width: 100vw;
+  text-align: center;
+
+}

@@ -1,0 +1,26 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 20vh;
+  left: 25vw;
+  flex-direction: column;
+  background-color: black;
+  width: 50vw;
+  height: 70vh;
+  color: rgb(0, 0, 0);
+}
+
+.weat {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  font-size: x-large;
+  align-items: center;
+  height: 10vh;
+  width: 30vw;
+  border: 1px solid black;
+  justify-content: center;
+  background-color: white;
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "number": 1,
+   
+    "crop": "wheat",
+
+    "fertiliser":"Wheat requires nitrogen, phosphorus, and potassium fertilizers for optimal growth and yield. Nitrogen is particularly important for grain development and protein content, while phosphorus and potassium support root development and overall plant health. The timing and type of fertilizer application vary based on soil nutrient levels and crop stage. Nitrogen is often applied before sowing or during early growth stages.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Wheat crop harvesting typically occurs in late spring or early summer, around 90 to 120 days after sowing, depending on the variety and growing conditions. Harvesting timing is crucial to ensure optimal grain yield and quality. Wheat is harvested when the grains have reached physiological maturity and moisture content is suitable for storage.",
+
+    "SowingTime": "Barley seeds are typically sown in the fall or early spring, depending on regional climate and cropping practices. Fall sowing allows for establishment during the winter months, while spring sowing capitalizes on warmer temperatures for rapid growth. Barley is adaptable to various soil conditions and can be sown directly into the field. Proper seed depth and spacing are essential for successful germination and establishment. Weeds should be controlled during sowing to minimize competition for resources and ensure optimal barley crop growth.",
+
+    "season":"Winter",
+
+    "fertilizer1": "wheatf1",
+
+    "fertilizer2": "wheatf2",
+    
+    "type": "rabi"
+  },
+  {
+    "number": 2,
+    "crop": "barley",
+    "season":"Winter",
+    "fertiliser":
+    "Barley benefits from nitrogen, phosphorus, and potassium fertilizers. Nitrogen is crucial for vegetative growth and grain yield, while phosphorus and potassium support root development and overall plant vigor. The timing and type of fertilizer application vary based on soil nutrient levels and crop stage. Nitrogen is often applied before sowing or during early growth stages.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Barley crop harvesting typically occurs in early to mid-summer, around 90 to 110 days after sowing. Harvesting timing depends on factors such as variety, growing conditions, and intended use. Barley is harvested when the grains have reached physiological maturity and moisture content is suitable for storage.",
+
+    "SowingTime": "Barley seeds are typically sown in the fall or early spring, depending on regional climate and cropping practices. Fall sowing allows for establishment during the winter months, while spring sowing capitalizes on warmer temperatures for rapid growth. Barley is adaptable to various soil conditions and can be sown directly into the field. Proper seed depth and spacing are essential for successful germination and establishment. Weeds should be controlled during sowing to minimize competition for resources and ensure optimal barley crop growth.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+
+    
+    "type": "rabi"
+  },
+  {
+    "number": 3,
+    "crop": "oat",
+    "season":"Winter",
+    "fertiliser":"Oats respond well to nitrogen fertilizers, especially during the early growth stages. Phosphorus and potassium are also essential for oat crop development, aiding in root growth and overall plant health. The timing and type of fertilizer application depend on soil nutrient levels and crop stage, with nitrogen often applied before sowing or during early growth stages",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Oat crop harvesting typically occurs in late summer or early autumn, around 90 to 110 days after sowing. Harvesting is usually done when the grains have reached physiological maturity and the moisture content is suitable for storage.",
+    "SowingTime": ": Oat seeds are typically sown in early spring for a summer harvest or in late summer for a fall harvest, depending on regional climate and cropping practices. Oats are adaptable to various soil conditions and can be sown directly into the field. Proper seed depth and spacing are crucial for successful germination and establishment. Weeds should be controlled during sowing to minimize competition for resources and ensure optimal oat crop growth",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "rabi"
+  },
+  {
+    "number": 4,
+    "crop": "mustard",
+    "season":"Winter",
+    "fertiliser":"Mustard responds well to nitrogen, phosphorus, and potassium fertilisers. Nitrogen aids in leaf and stem growth, while phosphorus and potassium support root development and overall plant health. The timing and type of fertiliser application vary based on soil nutrient levels and crop stage. Nitrogen is often applied at sowing or during early growth stages.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": " Mustard crop harvesting generally occurs in late spring or early summer, approximately 90 to 120 days after sowing. Harvesting timing depends on factors like variety, growing conditions, and intended use. Mustard is harvested when the seeds have matured, and the pods have turned yellowish-brown.",
+    "SowingTime": "Mustard seeds are typically sown in the fall or early spring, depending on regional climate and cropping practices. Fall sowing allows for establishment before winter, while spring sowing capitalizes on warmer temperatures for rapid growth. Mustard is adaptable to various soil conditions and can be sown directly into the field. Proper seed depth and spacing are crucial for successful germination and establishment. Weed control measures should be implemented during sowing to minimize competition for resources and ensure optimal mustard crop growth.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "rabi"
+  },
+  {
+    "number": 5,
+    "crop": "peas",
+    "season":"Winter",
+    "fertiliser":"Peas have moderate fertility requirements but benefit from nitrogen fertilisers, especially during early growth stages. Phosphorus and potassium are also essential for pea crop development, aiding in root growth and overall plant vigor. The timing and type of fertiliser application depend on soil nutrient levels and crop stage, with nitrogen often applied before sowing or during early growth stages.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Pea crop harvesting typically occurs in late spring or early summer, around 60 to 90 days after sowing, depending on the variety and growing conditions. Harvesting is done when the pods are well-filled and the peas inside are tender and sweet.",
+    "SowingTime": "Pea seeds are typically sown in the early spring, once soil temperatures have warmed and the risk of frost has passed. Peas prefer cool weather and can tolerate light frosts, making them ideal for early spring planting. Proper seed depth and spacing are crucial for successful germination and establishment. Peas can be sown directly into the field or started indoors and transplanted. Weed control measures should be implemented during sowing to minimize competition for resources and ensure optimal pea crop growth.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "rabi"
+  },
+  {
+    "number": 6,
+    "crop": "gram",
+    "season":"Winter",
+    "fertiliser":"Common fertilizers used for gram cultivation include nitrogen, phosphorus, and potassium. Nitrogen is particularly important for gram plants' vegetative growth, while phosphorus aids in root development and overall plant vigor. Potassium is essential for flower and fruit development. The timing and type of fertilizer application vary based on soil nutrient levels and crop stage. Generally, nitrogen is applied at planting and during early growth stages.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Gram is typically harvested in late spring or early summer, usually around 100 to 120 days after sowing, depending on the variety and growing conditions.",
+    "SowingTime": "Sowing of gram seeds usually takes place in the fall or early spring, depending on regional climate and agricultural practices. In most areas, sowing is done before or during the onset of the Rabi season. Proper seed depth and spacing are essential for successful germination and establishment. Gram is often sown directly into the field, and weed control measures may be implemented during sowing to minimize competition for resources and ensure optimal crop growth ",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "rabi"
+  },
+  {
+    "number": 7,
+    "crop": "coriander",
+    "season":"Winter",
+    "fertiliser":"Coriander has relatively low fertility requirements but benefits from balanced fertilisers rich in nitrogen, phosphorus, and potassium. Nitrogen supports leafy growth, while phosphorus and potassium aid in root development and overall plant health. Fertilisers are usually applied before sowing or during early growth stages to ensure healthy plant growth.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Coriander crop harvesting time depends on whether it's grown for its leaves or seeds. If grown for leaves, harvesting typically occurs when the plants are young and the leaves are tender, usually around 3 to 4 weeks after sowing. If grown for seeds, harvesting usually takes place when the plants bolt and produce flowers, approximately 90 to 120 days after sowing.",
+    "SowingTime": "Coriander seeds are typically sown directly into the soil in the early spring or late summer, depending on regional climate and cropping practices. Coriander prefers cool weather and can tolerate light frosts, making it suitable for early spring or late summer planting. Proper seed depth and spacing are crucial for successful germination and establishment. Weed control measures should be implemented during sowing to minimize competition for resources and ensure optimal coriander crop growth.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "rabi"
+  },
+  {
+    "number": 8,
+    "crop": "safflower",
+    "season":"Winter",
+    "fertiliser":"Safflower is relatively adaptable to different soil conditions and has moderate fertility requirements. It responds well to nitrogen fertilisers, which can be applied at the time of sowing or during early growth stages. Safflower's deep taproot allows it to access nutrients from lower soil layers, making it resilient to some nutrient deficiencies.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Safflower crop harvesting typically occurs in late summer or early fall, approximately 100 to 150 days after sowing. The exact timing depends on factors like the variety grown and local growing conditions. Harvesting is typically done when the flower heads have dried and the seeds have matured.",
+    "SowingTime": "Safflower seeds are typically sown in the spring or early summer, depending on regional climate and cropping practices. Safflower is known for its heat and drought tolerance, making it suitable for arid or semi-arid regions. Proper seed depth and spacing are crucial for successful germination and establishment. Weed control measures should be implemented during sowing to minimize competition for resources and ensure optimal safflower crop growth.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "rabi"
+  },
+  {
+    "number": 9,
+    "crop": "fennel",
+    "season":"Winter",
+    "fertiliser":"Fennel has moderate fertility requirements and responds well to balanced fertilizers. Nitrogen, phosphorus, and potassium are essential nutrients for fennel growth and development. Fertilizers can be applied before sowing or during early growth stages to ensure healthy plant growth and optimal yield.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Fennel crop harvesting typically occurs in late summer or early fall, approximately 90 to 120 days after sowing. The exact timing depends on factors such as variety, growing conditions, and intended use. Harvesting is typically done when the bulbs or seeds have matured and reached the desired size and flavor.",
+    "SowingTime": "Fennel seeds are typically sown directly into the soil in the spring or early summer, depending on regional climate and cropping practices. Fennel prefers well-drained soil and full sunlight for optimal growth. Proper seed depth and spacing are crucial for successful germination and establishment. Weed control measures should be implemented during sowing to minimize competition for resources and ensure optimal fennel crop growth.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "rabi"
+  },
+  {
+    "number": 10,
+    "crop": "rapeseed",
+    "season":"Winter",
+    "fertiliser":"Rapeseed has moderate to high fertility requirements, particularly for nitrogen, phosphorus, and potassium. Nitrogen supports vegetative growth and yield, while phosphorus and potassium contribute to root development and overall plant health. Fertilizers are typically applied before sowing or during early growth stages to ensure healthy plant growth and optimal yield.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Rapeseed crop harvesting typically occurs in late spring or early summer, approximately 90 to 120 days after sowing. The exact timing depends on factors such as variety, growing conditions, and intended use. Harvesting is typically done when the seeds have matured and the moisture content is suitable for storage.",
+    "SowingTime": "Rapeseed seeds are typically sown in the fall or early spring, depending on regional climate and cropping practices. Fall sowing allows for establishment before winter dormancy, while spring sowing takes advantage of warmer temperatures for rapid growth. Rapeseed prefers well-drained soil and full sunlight for optimal growth. Proper seed depth and spacing are crucial for successful germination and establishment. Weed control measures should be implemented during sowing to minimize competition for resources and ensure optimal rapeseed crop growth.    ",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "rabi"
+  },
+  {
+    "number": 11,
+    "crop": "rice",
+  
+    "fertiliser":"Rice requires specific fertilization to ensure optimal growth and yield. Nitrogen, phosphorus, and potassium are essential nutrients for rice plants. Nitrogen is particularly important for rice crop development and yield. Phosphorus contributes to root development and overall plant health, while potassium aids in disease resistance and stress tolerance. Fertilizers are typically applied before sowing or during the early growth stages to meet the nutrient demands of the crop.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": ": Rice crop harvesting typically occurs in late summer or early autumn, approximately 100 to 150 days after sowing. The exact timing depends on factors such as variety, growing conditions, and local climate. Harvesting is typically done when the grains have matured and reached the desired moisture content for storage.",
+    "SowingTime": "Rice seeds are typically sown in the spring or early summer, depending on regional climate and cropping practices. Rice is usually grown in flooded or waterlogged conditions, so sowing is often done in paddies or fields with sufficient water availability. Proper seed depth and spacing are crucial for successful germination and establishment. Weed control measures should be implemented during sowing and throughout the growing season to minimize competition for resources and ensure optimal rice crop growth.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "kharif"
+  },
+  {
+    "number": 12,
+    "crop": "sugarcane",
+   
+    "fertiliser":"Sugarcane requires a balanced supply of nutrients for optimal growth and yield. Commonly used fertilisers include nitrogen, phosphorus, and potassium. Nitrogen promotes vigorous vegetative growth, phosphorus supports root development, and potassium enhances disease resistance and stress tolerance. Fertilisers are typically applied in split doses throughout the growing season to meet the crop's nutrient requirements.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Sugarcane crop harvesting typically occurs between 12 to 18 months after planting, depending on the variety, climate, and growing conditions. The crop is harvested when the sucrose content in the cane is at its peak. Harvesting involves cutting the mature cane stalks close to the ground and then transporting them to sugar mills for processing.",
+    "SowingTime": "Sugarcane is usually propagated vegetatively from mature cane stalks, rather than from seeds. Planting typically takes place at the beginning of the growing season, usually in late winter or early spring, when soil temperatures are warm and there is sufficient moisture. Sugarcane is planted in rows or furrows, with each segment of cane stalk being buried horizontally in the soil to promote root growth and sprouting. Weed control measures are essential during planting to minimize competition for nutrients and ensure successful establishment of the crop.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "kharif"
+  },
+  {
+    "number": 13,
+    "crop": "cotton",
+    
+    "fertiliser":"Cotton has moderate to high fertility requirements, with nitrogen being the most crucial nutrient for its growth and development. Phosphorus and potassium are also essential for promoting root development, flowering, and fruiting. Fertilizers are typically applied before sowing or during the early growth stages to ensure that the crop has an adequate supply of nutrients throughout its growth cycle.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Cotton crop harvesting typically occurs in the late summer or early autumn, approximately 5 to 7 months after sowing. The exact timing depends on factors such as variety, growing conditions, and local climate. Harvesting involves mechanically picking the cotton bolls from the plants. After harvesting, the cotton fibers are separated from the seeds through ginning, and then processed into various textile products.",
+    "SowingTime": "Cotton seeds are typically sown in the spring, after the last frost has passed and soil temperatures have warmed up. The timing of sowing may vary depending on the region and local climate conditions. Cotton is usually planted in rows or beds, and proper seed spacing is essential to ensure optimal plant growth and development. Weed control measures are also implemented during sowing and throughout the growing season to minimize competition for resources and ensure high yields.    ",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "kharif"
+  },
+  {
+    "number": 14,
+    "crop": "maize",
+    
+    "fertiliser":"Maize has relatively high fertility requirements, with nitrogen being the most critical nutrient for its growth and development. Phosphorus and potassium are also essential for promoting root development, flowering, and grain formation. Fertilizers are typically applied before sowing or during the early growth stages to ensure that the crop has an adequate supply of nutrients throughout its growth cycle. Nitrogen fertilizers may be applied in split doses throughout the growing season to support the plant's increased nutrient demands during the reproductive stage.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Maize crop harvesting typically occurs in the late summer or early autumn, approximately 3 to 4 months after sowing. The exact timing depends on factors such as variety, growing conditions, and local climate. Harvesting is done when the maize kernels have reached physiological maturity and are dry enough for storage. Mechanical harvesters are commonly used to efficiently collect the maize ears from the plants.",
+    "SowingTime": "Maize seeds are typically sown in the spring, after the last frost has passed and soil temperatures have warmed up. The exact timing of sowing may vary depending on the region and local climate conditions. Maize is usually planted in rows or hills, with proper seed spacing to optimize plant growth and development. Weed control measures are also implemented during sowing and throughout the growing season to minimize competition for resources and ensure high yields.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "kharif"
+  },
+  {
+    "number": 15,
+    "crop": "groundnut",
+   
+    "fertiliser":"Groundnut has moderate fertility requirements, with nitrogen being an essential nutrient for its growth and development. Phosphorus and potassium are also crucial for promoting root development, flowering, and pod formation. Fertilizers are typically applied before sowing or during the early growth stages to ensure that the crop has an adequate supply of nutrients throughout its growth cycle. Nitrogen fertilizers may be applied in split doses throughout the growing season to support the plant's increased nutrient demands during the reproductive stage.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Groundnut crop harvesting typically occurs in the late summer or early autumn, approximately 4 to 5 months after sowing. The exact timing depends on factors such as variety, growing conditions, and local climate. Harvesting is done when the groundnut pods have matured and reached their optimal size. The plants are usually uprooted or pulled out of the ground, and then the pods are carefully harvested from the roots. After harvesting, the pods are dried and processed to remove the nuts from the shells.",
+    "SowingTime": "Groundnut seeds are typically sown in the spring, after the last frost has passed and soil temperatures have warmed up. The exact timing of sowing may vary depending on the region and local climate conditions. Groundnut is usually planted in rows or hills, with proper seed spacing to optimize plant growth and development. Weed control measures are also implemented during sowing and throughout the growing season to minimize competition for resources and ensure high yields.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "kharif"
+  },
+  {
+    "number": 16,
+    "crop": "soyabean",
+   
+    "fertiliser":"Soybean has moderate fertility requirements, with nitrogen being an essential nutrient for its growth and development. Phosphorus and potassium are also crucial for promoting root development, flowering, and pod formation. Fertilizers are typically applied before sowing or during the early growth stages to ensure that the crop has an adequate supply of nutrients throughout its growth cycle. Nitrogen fertilizers may be applied in split doses throughout the growing season to support the plant's increased nutrient demands during the reproductive stage.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Soybean crop harvesting typically occurs in the late summer or early autumn, approximately 3 to 4 months after sowing. The exact timing depends on factors such as variety, growing conditions, and local climate. Harvesting is done when the soybean pods have matured and turned yellow or brown. The plants are usually uprooted or pulled out of the ground, and then the pods are carefully harvested from the plants. After harvesting, the pods are threshed to remove the soybeans.",
+    "SowingTime": "Soybean seeds are typically sown in the spring, after the last frost has passed and soil temperatures have warmed up. The exact timing of sowing may vary depending on the region and local climate conditions. Soybean is usually planted in rows or hills, with proper seed spacing to optimize plant growth and development. Weed control measures are also implemented during sowing and throughout the growing season to minimize competition for resources and ensure high yields.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "kharif"
+  },
+  {
+    "number": 17,
+    "crop": "turmeric",
+   
+    "fertiliser":"Turmeric cultivation doesn't usually require heavy fertilisation. However, organic matter like compost or well-rotted manure can be beneficial for soil health and turmeric growth. If necessary, a balanced NPK fertilizer can be applied at the time of planting or during the early stages of growth.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Turmeric crop harvesting typically occurs after 7 to 9 months of planting. The exact timing depends on factors such as variety, growing conditions, and local climate. Harvesting is usually done when the leaves of the plant turn yellow and dry up. The underground rhizomes, which are the main part used, are carefully dug out from the soil.",
+    "SowingTime": " Turmeric is propagated through rhizomes rather than seeds. Planting is typically done in the spring or early summer, once the soil has warmed up and there is no risk of frost. Rhizomes are planted about 5-10 cm deep in rows or pits, with proper spacing between them. Turmeric prefers well-drained, loamy soil and partial shade for optimal growth.Turmeric is a perennial plant, so once planted, it will continue to grow and produce rhizomes year after year. After harvesting, the rhizomes are cleaned, dried, and processed into powder or used fresh in various culinary and medicinal applications.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "kharif"
+  },
+  {
+    "number": 18,
+    "crop": "millet",
+   
+    "fertiliser":"Millets are known for their ability to grow well in poor soil conditions and with minimal fertiliser input. However, if soil fertility is low, organic matter like compost or well-rotted manure can be beneficial for millet growth. Additionally, a balanced NPK fertilizer can be applied at the time of planting or during the early stages of growth to provide necessary nutrients.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Millet crop harvesting typically occurs in the late summer or early autumn, approximately 2 to 4 months after sowing, depending on the variety and growing conditions. Millets are harvested when the grains have matured and turned golden brown. The exact timing of harvesting may vary based on local climate conditions and the intended use of the millet.",
+    "SowingTime": "Millet seeds are typically sown in the spring or early summer, once the soil has warmed up and there is no risk of frost. Millets are adaptable to various soil types and can tolerate drought conditions, making them suitable for cultivation in marginal lands. Seeds are sown directly into the soil at a shallow depth, with proper spacing between plants to optimize growth and yield.Millets are versatile grains used for human consumption, animal feed, and in some regions, for brewing. After harvesting, the grains are threshed and can be processed into various food products or stored for future use.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "kharif"
+  },
+  {
+    "number": 19,
+    "crop": "moong",
+
+    "fertiliser":"Mung beans have moderate fertility requirements, with nitrogen being the most crucial nutrient for their growth and development. Phosphorus and potassium are also important for promoting root development, flowering, and pod formation. Fertilizers are typically applied before sowing or during the early growth stages to ensure that the crop has an adequate supply of nutrients throughout its growth cycle. Nitrogen fertilizers may be applied in split doses throughout the growing season to support the plant's increased nutrient demands during the reproductive stage.",
+
+    "i": "wi",
+    "p": "wp",
+
+    "HarvestingTime": "Mung bean crop harvesting typically occurs in late summer or early autumn, around 2 to 3 months after sowing, depending on the variety and growing conditions. Harvesting is done when the pods have matured and turned yellow or brown. The plants are usually uprooted or pulled out of the ground, and then the pods are carefully harvested from the plants.",
+    "SowingTime": "Mung bean seeds are typically sown in the spring or early summer, after the last frost has passed and soil temperatures have warmed up. The exact timing of sowing may vary depending on the region and local climate conditions. Mung beans are usually planted in rows or hills, with proper seed spacing to optimize plant growth and development. Weed control measures are also implemented during sowing and throughout the growing season to minimize competition for resources and ensure high yields.",
+    "fertilizer1": "wheatf1",
+    "fertilizer2": "wheatf2",
+    "type": "kharif"
+  }
+]
